@@ -1,0 +1,6 @@
+C:\Users\Chloe\Documents\CSC 408\csharprecursive\csharprecursive\bin\Debug\csharprecursive.exe.config
+C:\Users\Chloe\Documents\CSC 408\csharprecursive\csharprecursive\obj\Debug\csharprecursive.csprojResolveAssemblyReference.cache
+C:\Users\Chloe\Documents\CSC 408\csharprecursive\csharprecursive\bin\Debug\csharprecursive.exe
+C:\Users\Chloe\Documents\CSC 408\csharprecursive\csharprecursive\bin\Debug\csharprecursive.pdb
+C:\Users\Chloe\Documents\CSC 408\csharprecursive\csharprecursive\obj\Debug\csharprecursive.exe
+C:\Users\Chloe\Documents\CSC 408\csharprecursive\csharprecursive\obj\Debug\csharprecursive.pdb
